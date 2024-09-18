@@ -1,0 +1,26 @@
+{
+  "name": "learning-cypress",
+  "version": "1.0.0",
+  "description": "project to practice with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique-decara/learning-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Henrique de Cara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrique-decara/learning-cypress/issues"
+  },
+  "homepage": "https://github.com/henrique-decara/learning-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
