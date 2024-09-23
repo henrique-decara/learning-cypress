@@ -1,6 +1,4 @@
 {
-  "user" : {
   "valid_email":"admin@user.com",
   "password":"password"
- }
 }
